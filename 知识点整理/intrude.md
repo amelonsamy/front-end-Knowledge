@@ -1,7 +1,7 @@
-#### 自我介绍  Tell me about yourself.
+####   Tell me about yourself.
 ok，Next is my self introduction，My name is Ren Huan，I graduated from Guiyang College in 2018，My major is communication engineering，I have been a front-end development engineer for two years。I am skilled in using js and react, and at the same time I understand git.The front-end framework I use is react，since I worked。In this company called datatom which focus on big data, I have mainly done three projects, of which, I am the person in charge of the front-end in AiKu；that's all.
 
-#### 项目介绍  project  
+####   project  
 Then let me briefly introduce the project in which I am responsible for the front end.
 AIKU intelligent deep learning platform is an intelligent one-stop AI development platform built on the basis of deep learning.Realize the customized development of low threshold, high flexibility, and zero code for AI applications. In this project, based on ant-pro, I completed the construction of the front-end development framework, completed the development of the main functional modules in the project, and assigned front-end tasks.
 
@@ -11,10 +11,10 @@ DSight Wisdom Lab provides a full range of services for teachers and students of
 DanaX-OS is a new generation cloud platform based on Docker container technology, using Docker as a resource allocation and management bridge, application deployment method, service-oriented, development center, and container ecology as the core.
 
 
-### 离职原因 leave reason
+### leave reason
 I am working in a small company，I want to change a better environment to improve my technical level，I would like to practise my English in my work。 so I ready to leave this company.
 
-### 个人爱好  性格 
+### 
 after work, I like to read novels or study cooking
 
 
