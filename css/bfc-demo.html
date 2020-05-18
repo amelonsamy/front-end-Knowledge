@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        .parent1 {
+            border: 5px solid #fcc;
+            width: 300px;
+            overflow: hidden;
+            margin-bottom: 100px;
+
+        }
+
+        .child1 {
+            border: 5px solid #f66;
+            width: 100px;
+            height: 100px;
+            float: left;
+        }
+
+        .parent2 {
+            padding: 8px;
+            width: 400px;
+            position: relative;
+            background-color: aquamarine;
+        }
+
+        .child2 {
+            width: 100px;
+            height: 150px;
+            float: left;
+            background: yellow;
+        }
+
+        .child3 {
+            height: 200px;
+            background: purple;
+            overflow: hidden;
+        }
+    </style>
+</head>
+
+<body>
+    <h1>1. 清除浮动</h1>
+    <div class="parent1">
+        <div class="child1"></div>
+        <div class="child1"></div>
+    </div>
+    <h1>1. 自适应两栏布局</h1>
+    <div class="parent2">
+        <div class="child2"></div>
+        <div class="child3"></div>
+
+    </div>
+</body>
+
+
+</html>
